@@ -1,0 +1,118 @@
+[[elfshaker]]
+arch = "aarch64"
+git-tree-sha1 = "769e256273112e5ed3a07998eaec0163b85ec293"
+os = "macos"
+
+    [[elfshaker.download]]
+    sha256 = "1820a20b857e7a6a09a020f3d30530fd71f7ebb33e3ba2a6eef5aa6183d1d849"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.aarch64-apple-darwin.tar.gz"
+[[elfshaker]]
+arch = "aarch64"
+git-tree-sha1 = "c0910fa5fde7ab057c101148723e9f4c1ef2002e"
+libc = "glibc"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "e8dade90563358f21fd92f8eb325364b705c965f63b2fda5323287171125991b"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.aarch64-linux-gnu.tar.gz"
+[[elfshaker]]
+arch = "aarch64"
+git-tree-sha1 = "af98eff69df8480149962fe93a473944525cbe1b"
+libc = "musl"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "4ee29123d7815fcb81eef600362d8fa7b6f028437cb08e2920e9de7c2744d63d"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.aarch64-linux-musl.tar.gz"
+[[elfshaker]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "41ba535687431eefff8e83b8780738f809c202c2"
+libc = "glibc"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "9c46338feecfbd53b83056dce0325c7073e80b1ac57b35837d11b9f433f90cfa"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.armv6l-linux-gnueabihf.tar.gz"
+[[elfshaker]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0eedb27e84c9ed8cba8413a152335fa444a94e7d"
+libc = "musl"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "9e3da474ad566a6593223d74b75abb556b3251193923b55dc6a863963014b080"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.armv6l-linux-musleabihf.tar.gz"
+[[elfshaker]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f40181e97d33590d53c88aea5b461e0ac6e1e1b3"
+libc = "glibc"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "00657f1cd9ec138ce404c33077f72a67a93fe868222328d3b9261efcdf5f841c"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.armv7l-linux-gnueabihf.tar.gz"
+[[elfshaker]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "01745b08e099a672d2453e8154c2c05c9fe83f32"
+libc = "musl"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "b8813bc8d4a8cdd834037f6bf71cfd0f12c054146cc1f624098609902b893003"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.armv7l-linux-musleabihf.tar.gz"
+[[elfshaker]]
+arch = "i686"
+git-tree-sha1 = "b1bc9714d46b819b9b3c1b76e7587462ff95e411"
+libc = "glibc"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "09b2de83f7f2cbadf99efeeb33f6069625747936436748bd3dfddaca78baf8f2"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.i686-linux-gnu.tar.gz"
+[[elfshaker]]
+arch = "i686"
+git-tree-sha1 = "cc0c16f6d33892f7fcbca058532504ce73ab1b6a"
+libc = "musl"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "7608030ee316628ac64217672ea0a044c4f32a3e801e6c13fb3416d11cc0c352"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.i686-linux-musl.tar.gz"
+[[elfshaker]]
+arch = "x86_64"
+git-tree-sha1 = "f3a6ca641a93722235831f15e9a5596dd488f0df"
+os = "macos"
+
+    [[elfshaker.download]]
+    sha256 = "e635cae7daa8346fa643b34d556135e69f81a5a6176f1bd2f9bfea60baae9305"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.x86_64-apple-darwin.tar.gz"
+[[elfshaker]]
+arch = "x86_64"
+git-tree-sha1 = "75e0d3f4e781749117f1d767c92f362a84311bf7"
+libc = "glibc"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "e10da7e4b2be145f61dbd4121c7a4d4a3322e0f43b4d0e07c493f34a58ab72ae"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.x86_64-linux-gnu.tar.gz"
+[[elfshaker]]
+arch = "x86_64"
+git-tree-sha1 = "6cab8b102fc10df550b346673e626f3a436a9616"
+libc = "musl"
+os = "linux"
+
+    [[elfshaker.download]]
+    sha256 = "bfcb7667e90571aadfd41a3ed4330233ec94f2477e6d3f941ec207a82a108bed"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.x86_64-linux-musl.tar.gz"
+[[elfshaker]]
+arch = "x86_64"
+git-tree-sha1 = "50fad77a10f10f86bf4965f518bd085e9009b63e"
+os = "freebsd"
+
+    [[elfshaker.download]]
+    sha256 = "fa1517cad22f223323d538c24c4de9016b791e58ddb67802ca4cbe563956a1f6"
+    url = "https://github.com/JuliaBinaryWrappers/elfshaker_jll.jl/releases/download/elfshaker-v0.9.1+0/elfshaker.v0.9.1.x86_64-unknown-freebsd.tar.gz"
